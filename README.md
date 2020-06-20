@@ -29,9 +29,9 @@ Problem Statement: "Demonstrate the use of Amazon CloudWatch to collect and trac
 
 According to the problem statement, this project is divided into three parts:
 
-1. Monitoring (tracking) metrics using CloudWatch
-2. Setting and monitoring log files over CloudWatch
-3. Setting Alarms in the CloudWatch console
+1. [Monitoring (tracking) metrics using CloudWatch](./source/monitoring-ec2-metrics.md)
+2. [Setting and monitoring log files over CloudWatch](./source/monitoring-ec2-logs.md)
+3. [Setting Alarms in the CloudWatch console](./source/setting-alarms.md)
 
 ## Technical requirements
 
@@ -43,8 +43,5 @@ Following are the AWS provided technologies used for this demo:
 - EC2
 - IAM
 - awslogs
-
-## Detailed work report navigation
-
 
 
