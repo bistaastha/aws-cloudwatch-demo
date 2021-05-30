@@ -19,15 +19,9 @@
  \__,_|\___|_| |_| |_|\___/ 
 </pre>
 
-This is AWS CloudWatch demonstration which is also my mini project for the fourth semester January-July 2020.
-
----
-Problem Statement: "Demonstrate the use of Amazon CloudWatch to collect and track all metrics, collect and monitor log files, set alarms, and automatically react to changes in your AWS resources."
----
-
 ## Project division
 
-According to the problem statement, this project is divided into three parts:
+This project is divided into three parts:
 
 1. [Monitoring (tracking) metrics using CloudWatch](./source/monitoring-ec2-metrics.md)
 2. [Setting and monitoring log files over CloudWatch](./source/monitoring-ec2-logs.md)
@@ -35,9 +29,9 @@ According to the problem statement, this project is divided into three parts:
 
 ## Technical requirements
 
-This demonstration was set up on Amazon Web Services console. Howecer, in order to access the VM, native CLI and openssh were used on Ubuntu 18.04.
+This demonstration was set up on Amazon Web Services console. However, in order to access the VM, native CLI and openssh were used on Ubuntu 18.04.
 
-Following are the AWS provided technologies used for this demo:
+Following are the AWS provided technologies used here:
 
 - CloudWatch
 - EC2
